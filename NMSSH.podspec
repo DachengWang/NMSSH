@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "NMSSH"
-  spec.version      = "2.3.1.dac"
+  spec.version      = "2.3.2.dac"
   spec.summary      = "NMSSH is a clean, easy-to-use, unit tested framework for iOS and OSX that wraps libssh2."
   spec.homepage     = "https://github.com/DachengWang/NMSSH"
   spec.license      = 'MIT'
